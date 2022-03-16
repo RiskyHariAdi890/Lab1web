@@ -5,6 +5,8 @@
 
 ## **Langkah-Langkah Praktikum**
 
+![foto](foto/Logo_UPB.png)
+
 Persiapan membuka VSCode dan Browser
 
 ![foto](foto/foto1.png)
