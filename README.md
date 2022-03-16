@@ -1,11 +1,11 @@
+![foto](foto/Logo_UPB.png)
+
 | Nama      | Risky HariAdi  |
 | ----------- | ----------- |
 | NIM     | 312010124      |
 | Kelas   | TI.20.A.1        |
 
 ## **Langkah-Langkah Praktikum**
-
-![foto](foto/Logo_UPB.png)
 
 Persiapan membuka VSCode dan Browser
 
