@@ -1,6 +1,6 @@
 | Nama      | Risky HariAdi  |
 | ----------- | ----------- |
-| NIM     | 3120101244      |
+| NIM     | 312010124      |
 | Kelas   | TI.20.A.1        |
 
 ## **Langkah-Langkah Praktikum**
